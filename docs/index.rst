@@ -24,8 +24,10 @@ Welcome to amov's documentation!
    :maxdepth: 2
 
    hello
+   test
 
-
+这里是左侧分类1
+===================
 .. toctree::
    :maxdepth: 1
 
